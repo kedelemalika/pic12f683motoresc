@@ -1,0 +1,1 @@
+Simple motor controller using a PIC12F683 to control a MC33886 H-Bridge.
